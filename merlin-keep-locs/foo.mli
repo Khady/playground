@@ -1,0 +1,1 @@
+val example : string
